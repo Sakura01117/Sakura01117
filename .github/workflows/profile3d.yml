@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: Sakura01117
       - name: Commit & Push
         run: |
