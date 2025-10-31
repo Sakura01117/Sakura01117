@@ -1,6 +1,6 @@
 ## 🚧 大工事中 🚧
 
-![Tech Stack](https://skillicons.dev/icons?i=Cpp,python,docker)
+![Tech Stack](https://skillicons.dev/icons?i=cpp,python,docker)
 
 <p align="left">
   <!-- Metrics 基本情報 -->
