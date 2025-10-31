@@ -1,5 +1,7 @@
 ## 🚧 大工事中 🚧
 
+![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker)
+
 <p align="left">
   <!-- Metrics 基本情報 -->
   <picture>
