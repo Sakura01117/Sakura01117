@@ -1,6 +1,6 @@
 ## Profile
 
-<div align="center">
+
 
 ## 🌸 About Me
 
