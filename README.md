@@ -65,6 +65,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura01117&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
+
 ---
 
 ## 📫 Contact
