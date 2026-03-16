@@ -1,5 +1,7 @@
 ## Hi 👋 I'm Sakura
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sakura01117&count_private=true&show_icons=true" height="170">
