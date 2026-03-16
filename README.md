@@ -1,11 +1,7 @@
-# Hi 👋 I'm Sakura Hayakawa
-
-🎓 Tokyo University of Science  
+# Hi 👋 I'm Sakura
+ 
 🤖 Robotics | Computer Vision | Automation  
 🔧 ROS2 | Manipulation | RGB-D Perception  
-
-I am a robotics researcher interested in **automation systems for recycling and industrial robotics**.
-
 ---
 
 ## 🔬 Research Interests
@@ -14,12 +10,6 @@ I am a robotics researcher interested in **automation systems for recycling and 
 - RGB-D perception
 - Deep learning for segmentation
 - Path planning
-- Recycling automation
-
-My current research focuses on:
-
-**Manipulator-based cable cutting systems for automated waste appliance recycling.**
-
 ---
 
 ## ⚙️ Tech Stack
@@ -43,19 +33,6 @@ My current research focuses on:
 
 ---
 
-## 🚀 Current Project
-
-### Cable Separation Robot
-
-A robotic system designed to automate cable separation at waste appliance recycling facilities.
-
-Pipeline:
-
-1. RGB-D sensing
-2. Cable segmentation (Deep Learning)
-3. Costmap generation
-4. Path planning (RRT-based)
-5. Robotic manipulation and cutting
 
 ---
 ## Languages
@@ -74,6 +51,7 @@ Pipeline:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
 </p>
+
 ## Tools
 
 <p align="center">
