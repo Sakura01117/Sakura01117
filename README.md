@@ -1,7 +1,8 @@
 # Hi 👋 I'm Sakura
+
  
-🤖 Robotics | Computer Vision | Automation  
-🔧 ROS2 | Manipulation | RGB-D Perception  
+- 🤖 Robotics | Computer Vision | Automation  
+- 🔧 ROS2 | Manipulation | RGB-D Perception  
 ---
 
 ## 🔬 Research Interests
