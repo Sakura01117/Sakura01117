@@ -58,6 +58,23 @@ Pipeline:
 5. Robotic manipulation and cutting
 
 ---
+## Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
+
+## Robotics
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ros,gazebo" />
+</p>
+
+## Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vim" />
+</p>
 
 ## 📊 GitHub Stats
 
