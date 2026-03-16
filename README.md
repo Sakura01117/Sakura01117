@@ -67,9 +67,13 @@ Pipeline:
 ## Robotics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,gazebo" />
+  <img src="https://skillicons.dev/icons?i=ros,blender,opencv,pytorch" />
 </p>
 
+## Processing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
+</p>
 ## Tools
 
 <p align="center">
