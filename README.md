@@ -1,69 +1,76 @@
 # Hi 👋 I'm Sakura Hayakawa
 
 🎓 Tokyo University of Science  
-🤖 Robotics / Computer Vision / Automation  
-🔧 ROS2 / Manipulators / RGB-D perception  
+🤖 Robotics | Computer Vision | Automation  
+🔧 ROS2 | Manipulation | RGB-D Perception  
+
+I am a robotics researcher interested in **automation systems for recycling and industrial robotics**.
 
 ---
 
-## 🔬 Research
+## 🔬 Research Interests
 
-I work on **robotic automation for recycling systems**.
+- Robotic manipulation
+- RGB-D perception
+- Deep learning for segmentation
+- Path planning
+- Recycling automation
 
-My research focuses on:
+My current research focuses on:
 
-- cable segmentation using deep learning
-- RGB-D perception with RealSense
-- trajectory planning with RRT
-- robotic manipulation using UR robots
-
-Goal:  
-Automate **entangled cable separation in waste appliance recycling**.
+**Manipulator-based cable cutting systems for automated waste appliance recycling.**
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Robotics**
+### Robotics
+- ROS2 (Jazzy)
+- MoveIt2
+- UR ROS Driver
+- Gazebo / Ignition
 
-ROS2 (Jazzy)  
-MoveIt2  
-UR ROS Driver  
+### Vision & AI
+- Python
+- PyTorch
+- OpenCV
+- MMDetection
 
-**Vision**
-
-Python  
-PyTorch  
-OpenCV  
-MMDetection  
-
-**Hardware**
-
-UR manipulators  
-RealSense D435i  
-Jetson
+### Hardware
+- UR manipulators
+- RealSense D435i
+- Jetson platforms
 
 ---
 
-## 🚀 Projects
+## 🚀 Current Project
 
-### Cable Cutting Robot
+### Cable Separation Robot
 
-Manipulator-based cable cutting system for recycling plants.
+A robotic system designed to automate cable separation at waste appliance recycling facilities.
 
-Tech:
+Pipeline:
 
-- segmentation (SAM / Mask-RCNN)
-- costmap generation
-- RRT path planning
-- robotic cutting trajectory generation
+1. RGB-D sensing
+2. Cable segmentation (Deep Learning)
+3. Costmap generation
+4. Path planning (RRT-based)
+5. Robotic manipulation and cutting
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura01117&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura01117&layout=compact)
 
 ---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Sakura01117
+
+---
+
+⭐️ Robotics | Computer Vision | Automation
