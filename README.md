@@ -12,9 +12,3 @@
 
 
 
-## 🖌 Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,ros,blender,opencv,pytorch,git,docker,linux,vim" />
-</p>
-
